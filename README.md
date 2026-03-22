@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋, I'm Sonu Kumar  
 
-<!--
-**sonukumar2005/sonukumar2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student @ LPU  
+💻 Data Science & Machine Learning Enthusiast  
+🚀 Passionate about solving real-world problems using data  
 
-Here are some ideas to get you started:
+🔧 Tech Stack: C++, Java, Python, Power BI, Tableau, Excel, Streamlit  
+📊 Skilled in Data Analysis, ML, and Visualization (Pandas, Seaborn)  
+📈 Built projects on Data Analytics & Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Solved 350+ DSA problems on LeetCode with a 100+ days streak  
+⚡ Currently learning: Advanced ML, System Design & Full-Stack Development  
+
+📌 Always building, learning, and improving 🚀
