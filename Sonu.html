@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GitHub Snake Animation</title>
+<style>
+  body {
+    background: #0d1117;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(52, 12px);
+    gap: 4px;
+  }
+
+  .cell {
+    width: 12px;
+    height: 12px;
+    background: #161b22;
+    border-radius: 2px;
+  }
+
+  .active {
+    background: #2ea043;
+  }
+</style>
+</head>
+<body>
+
+<div class="grid" id="grid"></div>
+
+<script>
+const rows = 7;
+const cols = 52;
+const grid = document.getElementById("grid");
+
+// Create grid
+let cells = [];
+for (let i = 0; i < rows * cols; i++) {
+  const div = document.createElement("div");
+  div.classList.add("cell");
+  grid.appendChild(div);
+  cells.push(div);
+}
+
+// Snake positions
+let snake = [0, 1, 2, 3, 4];
+let direction = 1;
+
+// Animation loop
+function moveSnake() {
+  // Remove tail
+  const tail = snake.shift();
+  cells[tail].classList.remove("active");
+
+  // Add new head
+  let head = snake[snake.length - 1];
+  let next = head + direction;
+
+  // Wrap around edges
+  if (next >= cells.length) next = 0;
+  if (next < 0) next = cells.length - 1;
+
+  snake.push(next);
+  cells[next].classList.add("active");
+}
+
+// Initial draw
+snake.forEach(i => cells[i].classList.add("active"));
+
+// Animate
+setInterval(moveSnake, 80);
+</script>
+
+</body>
+</html>
