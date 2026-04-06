@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonukumar2005" alt="sonukumar2005" /></a> </p>
 
-- 🌱 I’m currently learning **Streamlit, Django**
+- 🌱 I’m currently learning **Streamlit, SpringBoot**
 
 - 📫 How to reach me **sonuchaudry10062005@gmail.com**
 
