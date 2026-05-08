@@ -1,10 +1,10 @@
 # 💫 About Me:
-{
-  "name": "Sonu Kumar",
-  "role": "CSE Student at LPU",
-  "skills": ["C++", "Java", "Python"],
-  "interests": ["Full-Stack Development", "Machine Learning", "DSA"],
-  "focus": "Building scalable and impactful solutions"
+{<br>
+  "name": "Sonu Kumar", <br>
+  "role": "CSE Student at LPU", <br>
+  "skills": ["C++", "Java", "Python"], <br>
+  "interests": ["Full-Stack", "Machine Learning", "DSA"], <br>
+  "focus": "Building scalable solutions" <br>
 }
 
 
