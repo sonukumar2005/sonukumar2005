@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello,<br>My name is Sonu Kumar, and I am currently pursuing my Bachelor’s in Computer Science and Engineering at Lovely Professional University.<br><br>I have a strong foundation in C++, Java, Python, and full-stack development, along with experience in machine learning and data analysis.<br><br>Currently, I am working on improving my machine learning models for better prediction accuracy and enhancing my full-stack development skills.<br>At the same time, I am actively practicing Data Structures and Algorithms to strengthen my problem-solving ability.<br><br>I am a quick learner and highly motivated to build impactful and scalable solutions.
+{
+  "name": "Sonu Kumar",
+  "role": "CSE Student at LPU",
+  "skills": ["C++", "Java", "Python"],
+  "interests": ["Full-Stack Development", "Machine Learning", "DSA"],
+  "focus": "Building scalable and impactful solutions"
+}
 
 
 ## 🌐 Socials:
