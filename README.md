@@ -43,8 +43,7 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=sonukumar2005&icon=0&color=0)](https://visitcount.itsvg.in)
-## LeetCode Stats
+## 🧑‍💻 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sonu_Kumar_2005?theme=dark&font=Baloo&ext=heatmap)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/Sonu_Kumar_2005/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
