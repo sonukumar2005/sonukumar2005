@@ -38,12 +38,9 @@
     src="https://raw.githubusercontent.com/sonukumar2005/sonukumar2005/output/github-contribution-grid-snake.svg"
   />
 </picture>
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sonukumar2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=sonukumar2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🧑‍💻 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sonu_Kumar_2005?theme=dark&font=Baloo&ext=heatmap)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
